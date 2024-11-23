@@ -1,0 +1,24 @@
+.background {
+    background-image: url(https://images.hdqwalls.com/download/internet-technology-hg-3840x2160.jpg);
+    background-size: cover;
+    height: 730px;
+}
+
+ .background h1 {
+    color:white;
+    text-align:start;
+    font-family:"Bree Serif", serif;
+}
+
+.background p {
+    color:white;
+    text-align:start;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#two {
+    margin-right: 5px;
+}
